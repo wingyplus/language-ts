@@ -4,7 +4,7 @@
   "description": "Minimal TypeScript and TypeScript React grammars",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/language-typescript",
+  "repository": "https://github.com/wingyplus/language-ts",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
