@@ -2,7 +2,7 @@
   "name": "language-ts",
   "version": "1.0.0",
   "description": "Minimal TypeScript and TypeScript React grammars",
-  "keywords": [],
+  "keywords": ["typescript", "react", "ts"],
   "repository": "https://github.com/wingyplus/language-ts",
   "license": "MIT",
   "engines": {
